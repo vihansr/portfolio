@@ -1,0 +1,207 @@
+Build a highly interactive and modern personal portfolio website for Vihan Singh Rathore. The website should feel less like a traditional portfolio and more like an exploration of a curious builder's mind. The design should be minimal, premium, and slightly experimental, with smooth animations, microinteractions, and a strong focus on storytelling.
+
+GENERAL THEME
+
+The core narrative of the website is:
+
+"I build things because I'm curious."
+
+The site should showcase a unique combination of technology, automation, journalism, public speaking, geopolitics, and community leadership. The goal is for visitors to understand that I am not just a developer, but someone who explores ideas and turns them into products.
+
+Use a clean modern aesthetic with generous whitespace, smooth transitions, subtle motion effects, and elegant typography. Avoid overly corporate designs.
+
+LANDING SECTION
+
+The hero section should occupy the entire viewport.
+
+Large heading:
+
+"Hi, I'm Vihan."
+
+Subheading:
+
+"I build products, automate tedious work, and explore ideas through technology."
+
+Below the heading, place a large interactive box in the center labeled:
+
+PROJECTS
+
+This is the main visual centerpiece of the page.
+
+When the user hovers over the Projects box, the box expands and the following project names emerge from inside it with smooth spring animations, almost as if they are escaping from the box:
+
+• MathPot
+• Focus App
+• Geopolitics Simulator
+• MakeMyList
+• Yuva Drishti
+
+Each project should become clickable.
+
+Hovering on a project should reveal a short description and an option to view details.
+
+The animation should feel playful, smooth, and memorable.
+
+ABOUT SECTION
+
+As the user scrolls down, introduce me through a storytelling section rather than a generic biography.
+
+Display text progressively:
+
+"I build things for two reasons."
+
+"Curiosity."
+
+"If I want to understand how something works, I build it."
+
+"Utility."
+
+"If a task feels repetitive, I automate it."
+
+Follow this with a paragraph describing me:
+
+Integrated MCA student at IIPS DAVV, builder of AI powered applications, automation enthusiast, public speaker, journalism enthusiast, and someone deeply interested in technology, policy, geopolitics, and the way they shape society.
+
+Add subtle scroll animations that reveal content gradually.
+
+PROJECT SHOWCASE SECTION
+
+Create dedicated cards for major projects.
+
+MathPot
+
+Real time multiplayer mathematics game built to understand multiplayer architectures and real time systems.
+
+Focus App
+
+Attention and concentration training platform designed to improve focus through interactive cognitive exercises.
+
+Geopolitics Simulator
+
+Simulation where users become leaders of major countries and experience the consequences of political, economic, and diplomatic decisions.
+
+MakeMyList
+
+AI powered productivity tool that transforms ideas into organized actionable lists.
+
+Yuva Drishti
+
+Research and journalism initiative focused on youth perspectives, public affairs, and meaningful discussions.
+
+Each project card should contain:
+
+Project title
+
+Brief description
+
+Technology stack
+
+Links
+
+Animated preview area
+
+Hover interactions
+
+EXPERIENCE SECTION
+
+Use a professional timeline layout rather than cards.
+
+Include:
+
+IT Intern
+Indore Municipal Corporation
+
+Built a tourist assistance chatbot and worked on technology initiatives under the Smart City ecosystem.
+
+Events and Operations Head
+NSS
+
+Managed event execution, coordination, logistics, and volunteer engagement.
+
+Core Team Member
+IEEE
+
+Contributed to technical initiatives, workshops, and community activities.
+
+Vice President
+Sanchar Sangram
+
+Helped grow a campus debate and public speaking community while organizing discussions, events, and competitions.
+
+The timeline should animate as users scroll.
+
+INTERESTS SECTION
+
+Create a visually engaging section titled:
+
+"What keeps me curious?"
+
+Display floating interactive tags:
+
+Technology
+
+Artificial Intelligence
+
+Geopolitics
+
+Public Policy
+
+Journalism
+
+Public Speaking
+
+Startups
+
+Automation
+
+Economics
+
+Community Building
+
+When clicked, each tag should reveal a short note explaining why the topic interests me.
+
+BUILD PHILOSOPHY SECTION
+
+Large centered statement:
+
+"I learn by building."
+
+Followed by:
+
+Every project starts with a question. Instead of searching endlessly for answers, I build something and learn through the process.
+
+CONTACT SECTION
+
+Keep it minimal.
+
+Heading:
+
+Let's build something interesting.
+
+Include:
+
+GitHub
+
+LinkedIn
+
+Email
+
+Resume
+
+FINAL DESIGN REQUIREMENTS
+
+Use smooth Framer Motion style animations throughout.
+
+Modern responsive design.
+
+Dark mode by default.
+
+Excellent mobile experience.
+
+Fast loading.
+
+Elegant typography.
+
+No unnecessary visual clutter.
+
+The website should feel like a blend of a builder's portfolio, a digital garden, and an interactive story about curiosity, technology, and problem solving.
